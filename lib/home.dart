@@ -41,6 +41,7 @@ class _HomePageState extends State<HomePage> {
     routeData('canvas以及画笔', '/painDemo'),
     routeData('form表单', '/formDemo'),
     routeData('路由相关', '/routeDemo'),
+    routeData('动画相关', '/animation'),
   ];
 
   //获取随机颜色

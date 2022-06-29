@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:zeeker_flutter_demo/rowAndColumn.dart';
 
+import 'animationDemo.dart';
 import 'home.dart';
 import 'lifeCycle.dart';
 import 'painDemo.dart';
@@ -68,6 +69,7 @@ class _MyAppState extends State<MyApp> {
         '/formDemo': (context) => FormDemo(), //form表单demo
         '/lifeCycle': (context) => Parent(), //form表单demo
         '/rowAndColumnDemo': (context) => RowAndColumn(), //布局demo
+        '/animation': (context) => AnimateApp(), //布局demo
         '/routeDemo/argument': (context) => ArgumentsRoute(), //参数路由传递demo
       },
       //兜底页面
