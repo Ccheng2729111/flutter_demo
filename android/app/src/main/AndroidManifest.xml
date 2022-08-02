@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.zeeker_flutter_demo">
+    package="com.example.flutter_demo">
    <application
-        android:label="zeeker_flutter_demo"
+        android:label="flutter_demo"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

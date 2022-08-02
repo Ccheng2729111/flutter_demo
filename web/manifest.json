@@ -1,6 +1,6 @@
 {
-    "name": "zeeker_flutter_demo",
-    "short_name": "zeeker_flutter_demo",
+    "name": "flutter_demo",
+    "short_name": "flutter_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:zeeker_flutter_demo/rowAndColumn.dart';
+import 'package:flutter_demo/rowAndColumn.dart';
 
 import 'animationDemo.dart';
 import 'home.dart';

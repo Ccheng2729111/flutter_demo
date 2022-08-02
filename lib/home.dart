@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:zeeker_flutter_demo/CommonAppBar.dart';
+import 'package:flutter_demo/CommonAppBar.dart';
 
 //定义route类 便于声明list 以及赋值给datas 用于遍历生成listview
 class routeData {
